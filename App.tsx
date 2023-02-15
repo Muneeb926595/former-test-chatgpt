@@ -52,7 +52,7 @@ export default function App() {
   async function generateAnswer() {
     try {
       setLoading(true)
-      const apiKey = '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';
+      const apiKey = 'openai_api_key';
       const response = await fetch(
         `https://api.openai.com/v1/engines/davinci/completions`,
         {
