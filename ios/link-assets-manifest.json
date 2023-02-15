@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/antdesign.ttf",
+      "sha1": "4e77868439280fb434d4697c7b911271406c81f3"
+    },
+    {
+      "path": "src/assets/fonts/custom-fonts.md",
+      "sha1": "c62f764c16ac128e3d53b137bd6bf0721668f549"
+    },
+    {
+      "path": "src/assets/fonts/entypo.ttf",
+      "sha1": "12b5670eb178138f77285d5f2c246d3cc5fa67d6"
+    },
+    {
+      "path": "src/assets/fonts/evilicon.ttf",
+      "sha1": "91d377ea3cf47490b256c2ed081704a7dabdae0c"
+    },
+    {
+      "path": "src/assets/fonts/font-awesome-5.ttf",
+      "sha1": "7d849a3981a716e2ba4a84634bc57d0b8054a6a3"
+    },
+    {
+      "path": "src/assets/fonts/font-awesome.ttf",
+      "sha1": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+    },
+    {
+      "path": "src/assets/fonts/foundation.ttf",
+      "sha1": "4b2bce6c792493a4a5716b6fec2dbefe89492c3f"
+    },
+    {
+      "path": "src/assets/fonts/helvetica-neu-bold.ttf",
+      "sha1": "4df1c65ace6cb5dfa38ef3f2b59e89ab6d08ada8"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.ttf",
+      "sha1": "0df3cb51b59159b42fd50d9ef500087d0e007e0c"
+    },
+    {
+      "path": "src/assets/fonts/ionicon.ttf",
+      "sha1": "b5281fbfa43129abc3e412dd938cfcf0b77de999"
+    },
+    {
+      "path": "src/assets/fonts/material.ttf",
+      "sha1": "1943803d652750c8ec60415f1e57401c70e72d25"
+    },
+    {
+      "path": "src/assets/fonts/modern-era-medium.otf",
+      "sha1": "641e5048e0f4072cac86e3b7a288f01262362b0b"
+    },
+    {
+      "path": "src/assets/fonts/modern-era-regular.otf",
+      "sha1": "5060a5930db71b8e3ba219c761756b67933e4bb4"
+    },
+    {
+      "path": "src/assets/fonts/octicon.ttf",
+      "sha1": "56acefc0731f35ee23b195b1c8cb5fa94a0db97b"
+    },
+    {
+      "path": "src/assets/fonts/simple-line-icon.ttf",
+      "sha1": "9ffb81a5a11112e292f2cc323e98486bad597599"
+    },
+    {
+      "path": "src/assets/fonts/zocial.ttf",
+      "sha1": "6a48a962b06cc3acbdfd61df0d9a34744eea5e8d"
+    }
+  ]
+}
